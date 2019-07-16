@@ -24,4 +24,5 @@ public class WordFrequencyTest {
       assertEquals("Content of the file",actualResult);
 
     }
+    /*we will give the file with extension this should return the content which is present inside the file*/
 }
